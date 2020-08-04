@@ -1,1 +1,2 @@
 Some text with berry!
+Add a new letter!
